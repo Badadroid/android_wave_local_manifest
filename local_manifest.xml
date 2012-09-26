@@ -2,8 +2,8 @@
 <manifest>
 	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="jellybean" />
 	<project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="jellybean" />
-	<project name="Rebell/android_device_samsung_wave" path="device/samsung/wave" remote="github" revision="jellybean" />
-	<project name="Rebell/android_device_samsung_wave-common" path="device/samsung/wave-common" remote="github" revision="jellybean" />
-	<project name="Rebell/android_vendor_samsung_wave-common" path="vendor/samsung/wave-common" remote="github" revision="jellybean" />
-	<project name="Rebell/android_kernel_samsung_wave" path="kernel/samsung/wave" remote="github" revision="jellybean" />
+	<project name="Rebell/android_device_samsung_wave" path="device/samsung/wave" remote="private" revision="jellybean" />
+	<project name="Rebell/android_device_samsung_wave-common" path="device/samsung/wave-common" remote="private" revision="jellybean" />
+	<project name="Rebell/android_vendor_samsung_wave-common" path="vendor/samsung/wave-common" remote="private" revision="jellybean" />
+	<project name="Rebell/android_kernel_samsung_wave" path="kernel/samsung/wave" remote="private" revision="jellybean" />
 </manifest>
