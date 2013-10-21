@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-10.1" />
 	<project name="Badadroid/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-10.1" />
 	<project name="Badadroid/android_device_samsung_wave" path="device/samsung/wave" remote="github" revision="cm-10.1" />
 	<project name="Badadroid/android_vendor_samsung_wave" path="vendor/samsung/wave" remote="github" revision="jellybean" />
