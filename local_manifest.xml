@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project name="Badadroid/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-10.2" />
-	<project name="Badadroid/android_device_samsung_wave" path="device/samsung/wave" remote="github" revision="cm-10.2" />
-	<project name="Badadroid/android_vendor_samsung_wave" path="vendor/samsung/wave" remote="github" revision="cm-10.2" />
-	<project name="Badadroid/android_kernel_samsung_wave" path="kernel/samsung/wave" remote="github" revision="cm-10.2" />
+	<project name="Badadroid/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-11.0" />
+	<project name="Badadroid/android_device_samsung_wave" path="device/samsung/wave" remote="github" revision="cm-11.0" />
+	<project name="Badadroid/android_vendor_samsung_wave" path="vendor/samsung/wave" remote="github" revision="cm-11.0" />
+	<project name="Badadroid/android_kernel_samsung_wave" path="kernel/samsung/wave" remote="github" revision="cm-11.0" />
 	<project name="Badadroid/android_external_libmocha-ipc" path="external/libmocha-ipc" remote="github" revision="jellybean" />
 </manifest>
