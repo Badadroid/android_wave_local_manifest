@@ -4,5 +4,5 @@
 	<project name="Badadroid/android_device_samsung_wave" path="device/samsung/wave" remote="github" revision="cm-11.0" />
 	<project name="Badadroid/android_vendor_samsung_wave" path="vendor/samsung/wave" remote="github" revision="cm-11.0" />
 	<project name="Badadroid/android_kernel_samsung_wave" path="kernel/samsung/wave" remote="github" revision="cm-11.0" />
-	<project name="Badadroid/android_external_libmocha-ipc" path="external/libmocha-ipc" remote="github" revision="jellybean" />
+	<project name="Badadroid/android_external_libmocha-ipc" path="external/libmocha-ipc" remote="github" revision="cm-11.0" />
 </manifest>
